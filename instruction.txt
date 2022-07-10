@@ -1,0 +1,9 @@
+There are two sample accounts in the project. The project also allows you to create your own bank account.
+
+Sample account 1:
+Login: si
+PIN: 1111
+
+Sample account 2:
+Login: or
+PIN: 2222
